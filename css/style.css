@@ -1,0 +1,31 @@
+body,html {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(rgb(195, 195, 193),rgb(94, 96, 94));
+}
+*{
+  transition: all .2s ease-in-out;
+}
+#layout{
+    width: 960px;
+    min-height: 600px;
+    margin:0 auto;
+    text-align: center;
+    padding-bottom:30px;
+}
+#time{
+    padding: 20px;
+    margin: 20px auto;
+    width: 50%;
+    color:white;
+    font-size: 40px;
+    background-color: black;
+}
+.lesson{
+    padding:20px;
+    width: 50%;
+    margin:0 auto;
+    background-color: black;
+    color:white;
+    font-size: 40px;
+}
